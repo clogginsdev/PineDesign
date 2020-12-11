@@ -22,7 +22,7 @@ h2,
 h3,
 h4,
 h5 {
-    margin: 2rem 0 1.37rem;
+    margin: 3rem 0 1.37rem;
     padding: 0px;
     font-family: 'Hind', sans-serif;
     font-weight: 400;
@@ -90,7 +90,7 @@ section {
 
 .rounded-circles {
     border-radius: 150px;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
